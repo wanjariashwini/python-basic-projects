@@ -1,0 +1,34 @@
+ERROR:root:error information
+CRITICAL:root:critical information
+WARNING:root:warning information
+ERROR:root:error information
+CRITICAL:root:critical information
+WARNING:root:warning information
+pythonProject2
+normal.log.2022-04-01_17-22
+normal.log.2022-04-01_17-23
+normal.log.2022-04-01_17-24
+normal.log.2022-04-01_17-25
+normal.log.2022-04-01_17-26
+normal.log.2022-04-01_17-27
+normal.log.2022-04-01_17-28
+normal.log.2022-04-01_17-29
+normal.log.2022-04-01_17-30
+normal.log.2022-04-01_17-31
+normal.log.2022-04-01_17-32
+normal.log.2022-04-01_17-33
+normal.log.2022-04-01_17-34
+normal.log.2022-04-01_17-35
+normal.log.2022-04-01_17-36
+normal.log.2022-04-01_17-37
+normal.log.2022-04-01_17-38
+normal.log.2022-04-01_17-39
+normal.log.2022-04-01_17-40
+normal.log.2022-04-01_17-41
+normal.log.2022-04-01_17-42
+normal.log.2022-04-01_17-43
+normal.log.2022-04-01_17-44
+normal.log.2022-04-01_17-45
+normal.log.2022-04-01_17-46
+normal.log.2022-04-01_17-47
+normal.log.2022-04-01_17-48
